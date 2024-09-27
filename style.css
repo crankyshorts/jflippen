@@ -39,6 +39,8 @@ body {
   float: left;
   padding-left: 2cm;
   /* Add the styles here */
+  color: White;
+  font-size: 30px;
 }
 
 .profile_name .contact_info {
